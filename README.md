@@ -1,2 +1,2 @@
-# Questao-2
-Resolução da Questão 2
+# Atividade Target
+questão2.js - Resolução da Questão 2
